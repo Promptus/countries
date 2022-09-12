@@ -10,6 +10,12 @@
 #   alpha2: localized_name
 #
 ---
+ab:
+  TR: Türkiye
+ak:
+  TR: Türkiye
+an:
+  TR: Türkiye
 ar:
   PS: "فلسطين"
   SA: "السعودية"
@@ -19,16 +25,32 @@ ar:
   SY: "سوريا"
   BQ: "بونير، سينت أوستاتيوس وسابا"
   CW: "كوراساو"
+ba:
+  TR: Türkiye
+bi:
+  TR: Türkiye
+ch:
+  TR: Türkiye
 da:
   CZ: 'Tjekkiet'
 de:
   CI: Elfenbeinküste
   CV: Kap Verde
+ee:
+  TR: Türkiye
+en:
+  TR: Türkiye
 fa:
   IR: "ایران"
+gn:
+  TR: Türkiye
 he:
   PS: "פלסטין, מדינת"
   VI: "איי הבתולה (ארה)"
+ki:
+  TR: Türkiye
+kl:
+  TR: Türkiye
 jp:
   ES: スペイン
 mk:
@@ -41,9 +63,21 @@ oc:
   MK: Macedònia del Nòrd
 pt:
   CZ: 'República Checa'
+sd:
+  TR: Türkiye
 sv:
   GB: "Storbritannien"
   RU: "Ryssland"
+sw:
+  TR: Türkiye
+tl:
+  TR: Türkiye
+ve:
+  TR: Türkiye
+wa:
+  TR: Türkiye
+xh:
+  TR: Türkiye
 zh:
   KH: '柬埔寨'
 zh_cn:
